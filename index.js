@@ -22,6 +22,8 @@ sayHiToGrandma(string) {
 
 
 sayHiToGrandma(string){
-  if (string === )
+  if (string === string.toUpperCase){
+    return 
+  }
 }
   //returns "YES INDEED!" if `string` is uppercase:
