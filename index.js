@@ -24,5 +24,4 @@ if (string === string.toLowerCase) {
 } else if (string === "I love you, Grandma."){
   return  'I love you, too.'
 }
-
 }
