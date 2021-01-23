@@ -17,3 +17,10 @@ function logWhisper(string){
 sayHiToGrandma(string) {
   return "I can't hear you!" if `string` is lowercase:
 }
+
+
+sayHiToGrandma(string)
+      returns "YES INDEED!" if `string` is uppercase:
+
+
+      
