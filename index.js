@@ -22,9 +22,6 @@ sayHiToGrandma(string) {
 
 
 sayHiToGrandma(string){
-  
+
 }
   //returns "YES INDEED!" if `string` is uppercase:
-
-
-      
